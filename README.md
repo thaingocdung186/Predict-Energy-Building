@@ -13,6 +13,8 @@ Based on building data, weather conditions, and historical energy consumption pa
 - Pandas
 - NumPy
 - Scikit-learn
+- Lightgbm
+- Xgboost
 - Pickle
 - Holiday
 - Matplotlib
